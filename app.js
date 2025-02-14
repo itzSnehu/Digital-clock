@@ -60,7 +60,7 @@ function clock() {
     document.querySelector(".hours").innerHTML = hours;
     document.querySelector(".minutes").innerHTML = minutes;
     document.querySelector(".seconds").innerHTML = seconds;
-    document.querySelector("periods").innerHTML = periods;
+    document.querySelector(".periods").innerHTML = periods;
 
 }
 
